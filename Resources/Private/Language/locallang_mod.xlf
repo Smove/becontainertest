@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext">
+		<header/>
+		<body>
+			<trans-unit id="mlang_tabs_tab">
+				<source>Demo</source>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tabdescr">
+				<source>Demo</source>
+			</trans-unit>
+			<trans-unit id="mlang_labels_tablabel">
+				<source>Demo</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

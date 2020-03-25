@@ -1,0 +1,17 @@
+{
+    "name": "jandelius/becontainertest",
+    "type": "typo3-cms-extension",
+    "version": "10.0.0",
+    "description": "",
+    "prefer-stable": true,
+    "minimum-stability": "dev",
+    "require": {
+        "typo3/cms-core": "10.4.*@dev",
+        "typo3/cms-extbase": "10.4.*@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jandelius\\Becontainertest\\": "Classes"
+        }
+    }
+}
